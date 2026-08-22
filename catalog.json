@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "Updated": "2026-08-22",
+  "Mods": [
+    {
+      "name": "Seralyth Menu",
+      "author": "Seralyth",
+      "owner": "Seralyth",
+      "repo": "Seralyth-Menu",
+      "description": "Full-featured mod menu",
+      "platform": "GitHub",
+      "category": "Menu",
+      "verified": false,
+      "dependencies": []
+    },
+    {
+      "name": "Utilla",
+      "author": "Seralyth",
+      "owner": "Seralyth",
+      "repo": "Utilla",
+      "description": "Utility library for Gorilla Tag mods",
+      "platform": "GitHub",
+      "category": "Library",
+      "verified": true,
+      "dependencies": []
+    },
+    {
+      "name": "GorillaLibrary",
+      "author": "GorillaTagModdingHub",
+      "owner": "GorillaTagModdingHub",
+      "repo": "GorillaLibrary",
+      "description": "Shared modding library",
+      "platform": "GitHub",
+      "category": "Library",
+      "verified": true,
+      "dependencies": []
+    },
+    {
+      "name": "MelInEx",
+      "author": "Loafiat",
+      "owner": "Loafiat",
+      "repo": "MelInEx",
+      "description": "MelonLoader-style BepInEx adapter",
+      "platform": "GitHub",
+      "category": "Library",
+      "verified": true,
+      "dependencies": []
+    },
+    {
+      "name": "ComputerInterface",
+      "author": "DecalFree",
+      "owner": "DecalFree",
+      "repo": "ComputerInterface",
+      "description": "Custom computer UI library, required by many mods",
+      "platform": "GitHub",
+      "category": "Library",
+      "verified": true,
+      "dependencies": []
+    },
+    {
+      "name": "GorillaShirts",
+      "author": "developer9998",
+      "owner": "developer9998",
+      "repo": "GorillaShirts",
+      "description": "Custom shirt/cosmetic support",
+      "platform": "GitHub",
+      "category": "Cosmetic",
+      "verified": true,
+      "dependencies": []
+    },
+    {
+      "name": "Hamburbur",
+      "author": "hamburbur-org",
+      "owner": "hamburbur-org",
+      "repo": "hamburbur",
+      "description": "Hamburbur mod framework",
+      "platform": "GitHub",
+      "category": "Utility",
+      "verified": false,
+      "dependencies": []
+    },
+    {
+      "name": "Gorilla Notifications",
+      "author": "hamburbur-org",
+      "owner": "hamburbur-org",
+      "repo": "Gorilla-Notifications",
+      "description": "In-game notification system",
+      "platform": "GitHub",
+      "category": "Utility",
+      "verified": false,
+      "dependencies": []
+    },
+    {
+      "name": "GorillaFriends",
+      "author": "developer9998",
+      "owner": "developer9998",
+      "repo": "GorillaFriends",
+      "description": "Friends/party system mod",
+      "platform": "GitHub",
+      "category": "Utility",
+      "verified": true,
+      "dependencies": []
+    },
+    {
+      "name": "GorillaInfoWatch",
+      "author": "developer9998",
+      "owner": "developer9998",
+      "repo": "GorillaInfoWatch",
+      "description": "Info watch overlay",
+      "platform": "GitHub",
+      "category": "Utility",
+      "verified": true,
+      "dependencies": []
+    },
+    {
+      "name": "GorillaTextureLoader",
+      "author": "Crafterbot",
+      "owner": "Crafterbot",
+      "repo": "GorillaTextureLoader",
+      "description": "Custom texture packs for Gorilla Tag",
+      "platform": "Gitea",
+      "category": "Utility",
+      "verified": true,
+      "dependencies": [
+        "ComputerInterface"
+      ]
+    },
+    {
+      "name": "Zlothy Nametag",
+      "author": "ZlothY29IQ",
+      "owner": "ZlothY29IQ",
+      "repo": "Zlothy-Nametag",
+      "description": "Custom nametag for Gorilla Tag",
+      "platform": "GitHub",
+      "category": "Cosmetic",
+      "verified": false,
+      "dependencies": []
+    },
+    {
+      "name": "BingusNametags\u002B\u002B",
+      "author": "sirkingbinx",
+      "owner": "sirkingbinx",
+      "repo": "BingusNametagsPlusPlus",
+      "description": "Extended nametag system",
+      "platform": "GitHub",
+      "category": "Cosmetic",
+      "verified": false,
+      "dependencies": []
+    },
+    {
+      "name": "GorillaMusicPad",
+      "author": "lolcaf",
+      "owner": "lolcaf",
+      "repo": "GorillaMusicPad-GT",
+      "description": "Music player pad, import your own songs",
+      "platform": "GitHub",
+      "category": "Fun",
+      "verified": false,
+      "dependencies": []
+    },
+    {
+      "name": "Overstocked",
+      "author": "notabird",
+      "owner": "notabird",
+      "repo": "Overstocked",
+      "description": "Access cosmetics no longer in the shop",
+      "platform": "Forgejo",
+      "category": "Fun",
+      "verified": false,
+      "dependencies": []
+    },
+    {
+      "name": "BetterMirror",
+      "author": "xynzhere",
+      "owner": "xynzhere",
+      "repo": "BetterMirror-REMASTER",
+      "description": "Higher quality mirror in-game",
+      "platform": "GitHub",
+      "category": "Fun",
+      "verified": false,
+      "dependencies": []
+    }
+  ]
+}
