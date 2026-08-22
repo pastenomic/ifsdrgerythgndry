@@ -10,7 +10,7 @@
       "description": "Full-featured mod menu",
       "platform": "GitHub",
       "category": "Menu",
-      "verified": false,
+      "verified": true,
       "dependencies": []
     },
     {
@@ -76,7 +76,7 @@
       "description": "Hamburbur mod framework",
       "platform": "GitHub",
       "category": "Utility",
-      "verified": false,
+      "verified": true,
       "dependencies": []
     },
     {
@@ -87,7 +87,7 @@
       "description": "In-game notification system",
       "platform": "GitHub",
       "category": "Utility",
-      "verified": false,
+      "verified": true,
       "dependencies": []
     },
     {
@@ -133,7 +133,7 @@
       "description": "Custom nametag for Gorilla Tag",
       "platform": "GitHub",
       "category": "Cosmetic",
-      "verified": false,
+      "verified": true,
       "dependencies": []
     },
     {
@@ -144,7 +144,7 @@
       "description": "Extended nametag system",
       "platform": "GitHub",
       "category": "Cosmetic",
-      "verified": false,
+      "verified": true,
       "dependencies": []
     },
     {
@@ -155,7 +155,7 @@
       "description": "Music player pad, import your own songs",
       "platform": "GitHub",
       "category": "Fun",
-      "verified": false,
+      "verified": true,
       "dependencies": []
     },
     {
@@ -166,7 +166,7 @@
       "description": "Access cosmetics no longer in the shop",
       "platform": "Forgejo",
       "category": "Fun",
-      "verified": false,
+      "verified": true,
       "dependencies": []
     },
     {
@@ -177,7 +177,7 @@
       "description": "Higher quality mirror in-game",
       "platform": "GitHub",
       "category": "Fun",
-      "verified": false,
+      "verified": true,
       "dependencies": []
     }
   ]
